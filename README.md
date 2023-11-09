@@ -16,6 +16,6 @@
 
 <div id="viewprof" align="center">
 
-<img src="https://komarev.com/ghpvc/?username-ILLIDAN0770&style-flat-square&color-blue" alt=""/>
+<img src="https://github.com/ILLIDAN0770/ghpvc/?username-ILLIDAN0770&style-flat-square&color-blue" alt=""/>
 
 </div>
