@@ -45,8 +45,8 @@
 
 ### :trophy: Достижения :
 
-<div>>
+<div>
 
-<<img src="https://github-profile-trophy.vercel.app/?username=ILLIDAN0770" alt=""/>
+<img src="https://github-profile-trophy.vercel.app/?username=ILLIDAN0770" alt=""/>
 
-<</div>
+</div>
