@@ -62,6 +62,6 @@
 
 <div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ILLIDAN0770&theme=dracula" alt=""/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ILLIDAN0770&theme=rogue" alt=""/>
 
 </div>
