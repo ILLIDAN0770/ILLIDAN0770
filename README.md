@@ -23,4 +23,4 @@
 <h1> Проиль на GITHUB </h1>
 </div>
 
-### :upside_down_face: Обо MHе :
+### :upside_down_face: Обо Mне :
