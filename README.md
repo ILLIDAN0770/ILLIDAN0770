@@ -31,4 +31,4 @@
 
 - :biking_man: факт обо мне
 
-### :hammer_and_wrench: Языки и инструменть:
+### :hammer_and_wrench: Языки и инструменты :
