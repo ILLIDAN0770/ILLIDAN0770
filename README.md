@@ -23,10 +23,4 @@
 <h1> Проиль на GITHUB </h1>
 </div>
 
-<div id="heythere" align="center">
-
-<h1> проиль на GITHUB </h1>
-
-</div>
-
 ### :upside_down_face: Обо MHе :
